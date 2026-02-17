@@ -25,3 +25,7 @@ Risiko bei unverschlüsselter E-Mail
 DSG (Datenschutzgesetz) muss eingehalten werden
 Verbesserung:
 Sichere Übermittlung (z. B. verschlüsseltes PDF oder geschütztes HR-System)
+
+## Erkenntnis A1
+
+wer wie lange involviert ist. Aufwandsachse,  
